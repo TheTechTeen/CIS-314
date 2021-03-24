@@ -1,0 +1,7 @@
+*.class
+.vscode/
+<<<<<<< HEAD
+*.zip
+=======
+*.zip
+>>>>>>> master
